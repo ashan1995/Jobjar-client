@@ -1,0 +1,6 @@
+.shadowbox{
+    border: 1px solid rgb(161, 157, 157);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
